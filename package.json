@@ -2,7 +2,7 @@
   "name": "testimonials-grid-section",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AleksandrTolstykh.github.io/testimonials-grid-section"
+  "homepage": "http://AleksandrTolstykh.github.io/testimonials-grid-section",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/styles": "^4.11.3",
