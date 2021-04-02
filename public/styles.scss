@@ -1,0 +1,29 @@
+body {
+  font-family: "Barlow Semi Condensed";
+  padding: 7%;
+
+  @media (max-width: 960px) {
+    padding: 0;
+  }
+}
+
+.quote {
+  position: absolute;
+  top: 100px;
+  left: 35%;
+  opacity: 50%;
+
+  @media (max-width: 960px) {
+    top: 0;
+    left: 70%;
+  }
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}
